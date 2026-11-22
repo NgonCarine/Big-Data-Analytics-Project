@@ -1,0 +1,21 @@
+Spalte,Datentyp,Beschreibung
+Order ID,String,Eindeutige Bestellnummer
+Order Date,Date,Datum der Bestellung
+Ship Date,Date,Versanddatum
+Ship Mode,String,Versandart
+Customer ID,String,Eindeutige Kundennummer
+Customer Name,String,Name des Kunden
+Segment,String,Kundensegment
+Country,String,Land
+City,String,Stadt
+State,String,Bundesstaat
+Postal Code,Integer,Postleitzahl
+Region,String,Verkaufsregion
+Product ID,String,Produktnummer
+Category,String,Produktkategorie
+Sub-Category,String,Produktunterkategorie
+Product Name,String,Produktname
+Sales,Float,Umsatz
+Quantity,Integer,Verkaufte Stückzahl
+Discount,Float,Rabatt
+Profit,Float,Gewinn
