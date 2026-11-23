@@ -14,3 +14,4 @@ Thumbs.db
 # Secrets and local configuration
 .env
 *.pem
+~*.twb 
